@@ -1,0 +1,49 @@
+﻿status,file,manuscript_location,seed_note
+FINAL,outputs/final/Joint_distribution_shift.csv,Joint,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/Monthly_calendar_coverage.csv,Monthly,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/Pooled_target_by_month.csv,Pooled,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/Table1_sample.csv,Table 1,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/Table2_concentration_load_mismatch.csv,Table 2,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/Table3_locked_threshold_holdout.csv,Table 3,20261026 shared primary metric stream
+FINAL,outputs/final/Table4_season_matched.csv,Table 4,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/Table5_fixed_historical.csv,Table 5,20260828 shared fixed-target support stream
+FINAL,outputs/final/TableS10_event_segmentation.csv,Table S10,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS11_event_bootstrap.csv,Table S11,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS12_alignment.csv,Table S12,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS13_calibration.csv,Table S13,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS14_matched.csv,Table S14,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS15_exclusions.csv,Table S15,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS16_zero_flow.csv,Table S16,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS17_ties.csv,Table S17,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS18_acf.csv,Table S18,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS19_burden.csv,Table S19,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS1_status_audit.csv,Table S1,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS20_conditioning.csv,Table S20,20261026 shared primary metric stream
+FINAL,outputs/final/TableS21_js.csv,Table S21,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS22_tail.csv,Table S22,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS2a_decision_grid_2025.csv,Table S2a,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS2b_decision_grid_2026.csv,Table S2b,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS3_overlap_jaccard.csv,Table S3,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS3b_overlap_difference_bootstrap.csv,Table S3b,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS4a_monthly.csv,Table S4a,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS4b_expanding_origin.csv,Table S4b,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS4c_quarter.csv,Table S4c,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS5_low_flow_sensitivity.csv,Table S5,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS6a_influential_day_locked.csv,Table S6a,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS6b_high_coverage.csv,Table S6b,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS7_fixed_P99_target.csv,Table S7,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS7b_fixed_P99_bootstrap.csv,Table S7b,20260828 shared fixed-target support stream
+FINAL,outputs/final/TableS7c_target_support.csv,Table S7c,20260828 shared fixed-target support stream
+FINAL,outputs/final/TableS8_nested_threshold_bootstrap.csv,Table S8,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS8b_moving_block_sensitivity.csv,Table S8b,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/TableS9_hourly_aggregation.csv,Table S9,See run_metadata.json and analysis/config.py
+FINAL,outputs/final/figures/Fig1.png,Figure 1,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/Fig2.png,Figure 2,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/Fig3.png,Figure 3,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/Fig4.png,Figure 4,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/FigS1.png,Figure S1,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/FigS2.png,Figure S2,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/FigS3.png,Figure S3,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/FigS4.png,Figure S4,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/FigS5_ACF.png,Figure S5_ACF,Programmatic final figure; see script and numerical table map
+FINAL,outputs/final/figures/FigS6_JS_reference.png,Figure S6_JS_reference,Programmatic final figure; see script and numerical table map
